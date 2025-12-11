@@ -1,3 +1,16 @@
 h1 {
    font: 1em sans-serif; 
 }
+a {
+text-decoration: overline;
+color: rgb(255, 255, 255);
+}
+strong {
+    font: 1em sans-serif;
+}
+table {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
